@@ -1,0 +1,30 @@
+
+/* header*/
+#bt{
+    background-color: #494949;
+    color: #fff;
+}
+
+#pagina{
+    background-color: #ECE8D9;
+}
+
+#bio{
+    padding:60px 0;
+    border-bottom: 1px solid #FFFDF6;
+}
+
+footer p a{
+    margin:5px 15px;
+}
+#nav-menu{
+    font-family: 'Lato', sans-serif;
+
+}
+h1,h2,h4{
+    font-family: 'Alkalami', serif;
+}
+
+p{
+    font-family: 'Aboreto', cursive;
+}
