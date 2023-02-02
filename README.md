@@ -17,7 +17,7 @@ Projeto de landing page simples apenas utilizando conceitos básicos do front en
 - CSS
 - BOOTSTRAP
 
-# Autor
+# Autora
 
 Andressa Almeida de Paula
 https://www.linkedin.com/in/andressa-almeida-de-paula-1892b9164/
